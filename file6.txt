@@ -1,0 +1,2 @@
+第六步：GitHub创建文件file6.txt.
+sourceTree及git同步更新文件到本地仓。
